@@ -48,3 +48,7 @@ This boils down to the Supply vs Demand problem which in turn facilitates tradin
 ### Blue Carbon
 ### Calculation of Carbon Credits
 
+### References
+ - [Dr. Tatiana Height](https://www.linkedin.com/in/tatiana-height-cnp-leader)
+ - [Carbon Pricing: How does Cap and Trade system work](https://youtube.com/watch?v=bxs6ZrxLvHg&feature=share)
+ - [Investing in Carbon](https://youtu.be/nIvUGz4uSzU)
