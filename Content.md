@@ -43,7 +43,12 @@ This boils down to the Supply vs Demand problem which in turn facilitates tradin
  - Prospects for starting activities while aligning with protocols
  - Supportive Economy
 
-
+#### Which areas can be targeted?
+ - Forest Covered
+ - Ocean/Waterbody related (Blue Carbon) - Forms a small % overall though
+ - Both of the above
+ - Manufacturing heavy states (to improve processes to reduce carbon emissions)
+ - Sustainable Energy Industry
 
 ### Blue Carbon
 ### Calculation of Carbon Credits
